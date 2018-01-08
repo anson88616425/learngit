@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 222222
 3333333
 remote
+
+Creating a new branch is quick.
