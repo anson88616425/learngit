@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 remote
 
 Creating a new branch is quick and simple.
+
+add merge
